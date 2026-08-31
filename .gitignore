@@ -1,0 +1,19 @@
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.tmp
+
+# Build and cache files
+__pycache__/
+*.log
+
+# Large raw CAD/export files can be added intentionally when needed.
+*.zip
+*.rar
+*.7z
